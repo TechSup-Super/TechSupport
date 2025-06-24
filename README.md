@@ -2,7 +2,7 @@
 A Markdown website intented for TC TechSupport and general users
 
 
-## Navigate
+## Modules
 - [Accounting](modules.md)
 - [Tellering](modules.md)
 - [Membership](modules.md)
