@@ -3,4 +3,8 @@ A Markdown website intented for TC TechSupport and general users
 
 
 ## Navigate
-- [Modules](modules.md)
+- [Accounting](modules.md)
+- [Tellering](modules.md)
+- [Membership](modules.md)
+- [MBA](modules.md)
+
